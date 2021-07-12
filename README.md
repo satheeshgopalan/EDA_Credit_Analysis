@@ -1,5 +1,5 @@
 # EDA_Credit_Analysis
-Course Work Project 
+PGDDS Course Work Project 
 
 Dataset : https://drive.google.com/drive/folders/16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB
 
