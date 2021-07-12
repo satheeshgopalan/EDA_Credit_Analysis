@@ -1,6 +1,8 @@
 # EDA_Credit_Analysis
 Course Work Project 
 
+Dataset : https://drive.google.com/drive/folders/16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB
+
 
 When the company receives a loan application, the company has to decide for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
 
